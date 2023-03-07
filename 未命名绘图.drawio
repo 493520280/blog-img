@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T02:10:32.684Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="GNOodLzfDx44j9kb04is" type="github"><diagram name="第 1 页" id="UULrNv7yAziYj5ASn-k5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T02:14:11.235Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Dw5Bb1nnDtYyfSzBG3u3" version="21.0.2" type="github">
+  <diagram name="第 1 页" id="UULrNv7yAziYj5ASn-k5">
+    <mxGraphModel dx="1050" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gmgPPgOzTw-l_vFafddz-2" value="./ext4 -o rw,uid=1000,gid=1000 fsimg /tmp/mnt2 -f" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gmgPPgOzTw-l_vFafddz-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gmgPPgOzTw-l_vFafddz-4" value="文件系统读写/只读，用户处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gmgPPgOzTw-l_vFafddz-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="52.5" width="20" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="gmgPPgOzTw-l_vFafddz-6" value="文件系统根目录的属主uid以及gid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
